@@ -34,9 +34,6 @@ Saya fokus dalam membangun aplikasi mobile dan web yang bersih dan mudah digunak
 
 ---
 
-## 📊 Statistik GitHub
-
-![Statistik GitHub Indra](https://github-readme-stats.vercel.app/api?username=IndraMuh&show_icons=true&theme=tokyonight)  
 ![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=IndraMuh&layout=compact&theme=tokyonight)
 
 ---
