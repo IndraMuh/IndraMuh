@@ -7,7 +7,7 @@ Saya fokus dalam membangun aplikasi mobile dan web yang bersih dan mudah digunak
 
 ---
 
-## 🛠️ Teknologi & Tools yang Dikuasai  
+## 🛠️ Tech Stack & Tools  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
@@ -20,17 +20,17 @@ Saya fokus dalam membangun aplikasi mobile dan web yang bersih dan mudah digunak
 
 ---
 
-## 📱 Proyek Mobile (Flutter)
+## 📱 Mobile Projects (Flutter)
 - **Ortucare App**  
   🧠 Aplikasi mobile yang mendukung parenting digital dan pelacakan tumbuh kembang anak.  
-  [🔗 Lihat di GitHub](https://github.com/IndraMuh/ortucare_app)
+  [🔗 View on GitHub](https://github.com/IndraMuh/ortucare_app)
 
 ---
 
-## 🌐 Proyek Web (PHP)
+## 🌐 Web Projects (PHP)
 - **Stainless**  
   👕 Website e-commerce pakaian yang dibangun dengan PHP Native, HTML, dan CSS. Fitur mencakup CRUD produk, keranjang belanja, dan sistem checkout.  
-  [🔗 Lihat di GitHub](https://github.com/IndraMuh/stainless)
+  [🔗 View on GitHub](https://github.com/IndraMuh/stainless)
 
 ---
 
